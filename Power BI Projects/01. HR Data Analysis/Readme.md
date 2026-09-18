@@ -1,41 +1,41 @@
-# Project Name
+# HR Data Analysis
 
-#### -- Project Status: [Active, On-Hold, Completed]
+## Objective
 
-## Project Intro/Objective
+Analyze employee attrition, diversity, and job satisfaction to identify factors driving turnover and evaluate workforce composition across departments.
 
+## Data Sources
 
-### Methods Used
+| File | Records | Description |
+|------|---------|-------------|
+| `Human_Resources_Employee_Attrition.csv` | 15,000 | Employee satisfaction, evaluations, projects, and tenure |
+| `Attrition and Performance Data.csv` | 1,470 | Demographics, job roles, income, and attrition status |
+| `DE and I.csv` | 4,410 | Diversity metrics including ethnicity, disability status, and gender |
+| `Recruitment Data CN.xlsx` | -- | Recruitment pipeline data |
 
-### Technologies
-* R 
-* Python
+## Key Questions
 
+- What factors most strongly predict employee attrition?
+- How does job satisfaction vary across departments and salary levels?
+- What does the workforce diversity breakdown look like?
+- Are there patterns in overtime, tenure, and promotion that correlate with turnover?
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+## Technologies
 
-## Needs of this project
+- Power BI Desktop
+- DAX
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+## Dashboard
 
-## Getting Started
+The dashboard includes views for attrition analysis, diversity and inclusion metrics, and performance satisfaction breakdowns.
 
+![HR Dashboard - Diversity, Performance and Satisfaction](https://github.com/user-attachments/assets/1e17526b-81ad-46b7-92d0-c28cf102c924)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+![HR Dashboard - Attrition Analysis](https://github.com/user-attachments/assets/a244e0fb-ddc0-4ce4-b39f-c96e00edd088)
 
-## Outcome 
-Key visualizations for this project are as  below. 
+## Files
 
-![image](https://github.com/user-attachments/assets/1e17526b-81ad-46b7-92d0-c28cf102c924)
-
-![image](https://github.com/user-attachments/assets/a244e0fb-ddc0-4ce4-b39f-c96e00edd088)
-
+- `HR Data Analysis.pbix` -- Main Power BI dashboard
+- `HR Churn.pbix` -- Churn-focused analysis
+- `HR_Data_Analysis Diversity Performance and Satisfaction.pdf` -- PDF export
+- `HR Analytics Dashboard CN.pdf` -- PDF export (recruitment view)
