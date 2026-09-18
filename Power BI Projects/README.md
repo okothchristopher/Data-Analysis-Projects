@@ -1,18 +1,13 @@
-# Data Science Public 
+# Power BI Projects
 
-## The Program Breakdown
-The core Data Science bootcamp runs for **30 weeks** and covers the following key modules:
-| Module/Course | Key Concepts | Curriculum | Duration |
-|---|---|---|---|
-| SQL Programming, Tableau Data Visualization and Database Design Fundamentals | SQL Queries, Data Viz, Building Databases | [Join Free Course](https://app.zinduaschool.com/free) | 2.5 weeks |
-| Python Programming | Python Basics, Data Types, Using Web Services, Advanced Python | [View Curriculum](/01-python-programming) | 5 weeks |
-| Python Data Analysis | Numpy, Pandas, and Data Visualisation (Matplotlib, Seaborn, & Tableau) | [View Curriculum](/02-python-data-analysis) | 5 weeks |
-| Machine Learning | Data Preprocessing, Regression, Classification, Model Evaluation | [View Curriculum](/03-machine-learning) | 5 weeks |
-| Advanced Machine Learning | Clustering, Dimensionality Reduction, Time Series Analysis, Neural Networks | [View Curriculum](/04-advanced-machine-learning) | 5 weeks |
-| Big Data Engineering | Databases, Haddop, PySpark, Data Streaming | [View Curriculum](/05-big-data-engineering) | 5 weeks |
-| Final Capstone | Build an end-to-end Machine Learning project and deploy it on Azure cloud | [View Graduate Projects](https://zinduaschool.com/projects) | 2.5 weeks |
-### Additional Skills
-Here are some bonus courses that are taken alongside the content covered in the curriculum above. These include:
-1. Git, Linux, and Command Line (On program commencement)
-2. Data Algorithms and Data Structures (On program completion)
-2. Cloud Computing with **Amazon Web Services** or **Microsoft Azure** (On program completion)
+Interactive dashboards and reports built with Microsoft Power BI.
+
+| # | Project | Data Size | Key Focus |
+|---|---------|-----------|----------|
+| 01 | [HR Data Analysis](01.%20HR%20Data%20Analysis) | 15,000+ employees | Attrition, diversity, satisfaction |
+| 02 | [Vehicle Sales Analysis](02.%20Vehicle%20Sales%20Analysis) | Vehicle dealership data | Sales trends and performance |
+| 03 | [Accidents Analysis in Nairobi](03.%20Accidents%20Analysis%20in%20Nairobi) | 6,300+ incidents | Road safety patterns |
+| 04 | [Diwali Sales Analysis](04.%20Divali%20Sales%20Analysis) | 11,000+ transactions | Customer demographics and purchasing |
+| 05 | [Life Expectancy Around the World](06.%20Life%20Expectancy%20Around%20the%20World) | 20,000+ records (1950-2021) | Global health trends |
+
+Each project folder contains the `.pbix` file, source data, and a PDF export of the dashboard.
